@@ -1,0 +1,40 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: rgb(119, 136, 153, 0.1);
+}
+
+figure {
+    float: right;
+    font-style: italic;
+}
+
+h1{
+    font-size: 32px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: sans-serif;
+    margin-top: 1.5em;
+}
+
+table, td, th, caption {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+div {
+    padding-top: 10px;
+}
+
+.text {
+    font-weight: 900;
+    text-align: center;
+    color: black;
+}
+
+table {
+    display: table;
+    width: auto;
+    overflow: hidden;
+}
